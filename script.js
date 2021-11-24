@@ -48,3 +48,5 @@ const suggestions = document.querySelector(".suggestions");
 
 seachInput.addEventListener("change", displayMatches);
 seachInput.addEventListener("keyup", displayMatches);
+
+//challenging put well worth the bug fixing
